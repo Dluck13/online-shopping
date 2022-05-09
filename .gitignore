@@ -31,7 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
-/bin/
 
-
+###Target###
 /online-shopping/target/
+
+
+
